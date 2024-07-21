@@ -1,0 +1,7 @@
+E:\VS C# and C++ projekt\Patterns\Desgin\obj\Debug\Desgin.csproj.AssemblyReference.cache
+E:\VS C# and C++ projekt\Patterns\Desgin\obj\Debug\Desgin.csproj.CoreCompileInputs.cache
+E:\VS C# and C++ projekt\Patterns\Desgin\bin\Debug\Desgin.exe.config
+E:\VS C# and C++ projekt\Patterns\Desgin\bin\Debug\Desgin.exe
+E:\VS C# and C++ projekt\Patterns\Desgin\bin\Debug\Desgin.pdb
+E:\VS C# and C++ projekt\Patterns\Desgin\obj\Debug\Desgin.exe
+E:\VS C# and C++ projekt\Patterns\Desgin\obj\Debug\Desgin.pdb

@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{619F778B-2365-4870-A509-8E6E164F8E39}|Desgin.csproj|E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619F778B-2365-4870-A509-8E6E164F8E39}|Desgin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619F778B-2365-4870-A509-8E6E164F8E39}|Desgin.csproj|e:\\vs c# and c\u002B\u002B projekt\\patterns\\desgin\\entyty\\items\\woshmashin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619F778B-2365-4870-A509-8E6E164F8E39}|Desgin.csproj|solutionrelative:entyty\\items\\woshmashin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619F778B-2365-4870-A509-8E6E164F8E39}|Desgin.csproj|e:\\vs c# and c\u002B\u002B projekt\\patterns\\desgin\\services\\woshmashistate\\workingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619F778B-2365-4870-A509-8E6E164F8E39}|Desgin.csproj|solutionrelative:services\\woshmashistate\\workingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619F778B-2365-4870-A509-8E6E164F8E39}|Desgin.csproj|e:\\vs c# and c\u002B\u002B projekt\\patterns\\desgin\\services\\woshmashistate\\waitingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619F778B-2365-4870-A509-8E6E164F8E39}|Desgin.csproj|solutionrelative:services\\woshmashistate\\waitingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619F778B-2365-4870-A509-8E6E164F8E39}|Desgin.csproj|e:\\vs c# and c\u002B\u002B projekt\\patterns\\desgin\\services\\factory\\createmany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619F778B-2365-4870-A509-8E6E164F8E39}|Desgin.csproj|solutionrelative:services\\factory\\createmany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619F778B-2365-4870-A509-8E6E164F8E39}|Desgin.csproj|e:\\vs c# and c\u002B\u002B projekt\\patterns\\desgin\\entyty\\factory\\verticalwmfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619F778B-2365-4870-A509-8E6E164F8E39}|Desgin.csproj|solutionrelative:entyty\\factory\\verticalwmfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:19:52.4Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateMany.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\Services\\Factory\\CreateMany.cs",
+              "RelativeDocumentMoniker": "Services\\Factory\\CreateMany.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\Services\\Factory\\CreateMany.cs",
+              "RelativeToolTip": "Services\\Factory\\CreateMany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:41:16.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VerticalWMFactory.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\Entyty\\Factory\\VerticalWMFactory.cs",
+              "RelativeDocumentMoniker": "Entyty\\Factory\\VerticalWMFactory.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\Entyty\\Factory\\VerticalWMFactory.cs",
+              "RelativeToolTip": "Entyty\\Factory\\VerticalWMFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:39:51.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WaitingState.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\Services\\WoshMashiState\\WaitingState.cs",
+              "RelativeDocumentMoniker": "Services\\WoshMashiState\\WaitingState.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\Services\\WoshMashiState\\WaitingState.cs",
+              "RelativeToolTip": "Services\\WoshMashiState\\WaitingState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:33:05.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkingState.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\Services\\WoshMashiState\\WorkingState.cs",
+              "RelativeDocumentMoniker": "Services\\WoshMashiState\\WorkingState.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\Services\\WoshMashiState\\WorkingState.cs",
+              "RelativeToolTip": "Services\\WoshMashiState\\WorkingState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:32:35.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WoshMashin.cs",
+              "DocumentMoniker": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\Entyty\\Items\\WoshMashin.cs",
+              "RelativeDocumentMoniker": "Entyty\\Items\\WoshMashin.cs",
+              "ToolTip": "E:\\VS C# and C\u002B\u002B projekt\\Patterns\\Desgin\\Entyty\\Items\\WoshMashin.cs",
+              "RelativeToolTip": "Entyty\\Items\\WoshMashin.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:21:11.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
