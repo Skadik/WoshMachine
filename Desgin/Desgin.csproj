@@ -47,6 +47,7 @@
     <Compile Include="Entyty\Factory\HorizontalWMFactory.cs" />
     <Compile Include="Entyty\Factory\IAbstractFactory.cs" />
     <Compile Include="Entyty\Factory\VerticalWMFactory.cs" />
+    <Compile Include="Entyty\Filing\NPC.cs" />
     <Compile Include="Entyty\Items\HorizontalWoshMachin.cs" />
     <Compile Include="Entyty\Items\IWoshMachine.cs" />
     <Compile Include="Entyty\Items\VerticalWoshMachin.cs" />
@@ -54,6 +55,12 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\Factory\CreateMany.cs" />
+    <Compile Include="Services\NPCState\EscapeState.cs" />
+    <Compile Include="Services\NPCState\FightState.cs" />
+    <Compile Include="Services\NPCState\INPCState.cs" />
+    <Compile Include="Services\NPCState\PeaceState.cs" />
+    <Compile Include="Services\NPCState\SerchState.cs" />
+    <Compile Include="Services\NPCState\State.cs" />
     <Compile Include="Services\WoshMachineServices\WMServic.cs" />
     <Compile Include="Services\WoshMashiState\DisabledState.cs" />
     <Compile Include="Services\WoshMashiState\IWoshMachineState.cs" />
